@@ -1,4 +1,4 @@
-<h1align="center" style="font-size: 52px;" > Friendly Chat - Flutter Festival 22 </h1>
+<h1 align="center" style="font-size: 52px;" > Friendly Chat - Flutter Festival 22 </h1>
 
 This repo belongs to Flutter Festival's 1st hands-on presented by Hassam Talha on 20th Feb-2022. Where we learned how to **Uplift your UI in FlutterApps**.
 
