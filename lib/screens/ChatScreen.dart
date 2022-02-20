@@ -16,7 +16,6 @@ class _ChatScreenState extends State<ChatScreen> with TickerProviderStateMixin {
 
   @override
   void initState() {
-    // TODO: implement initState
     super.initState();
     var message = ChatMessage(
       image: widget.chatModal!.image!,
