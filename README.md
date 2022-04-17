@@ -32,7 +32,7 @@ To create an AnimationController in a class that uses this mixin, pass vsync: th
 
 - **SingleTickerProviderState**: If you only have a single Ticker (for example only a single AnimationController) for the lifetime of your State, then using a SingleTickerProviderStateMixin is more efficient. This is the common case.
 
-- **Dart Packages**: We want to overcome the charges we required to send the SOS SMS in future in collaboration with our Government hopefully.
+
 
 ## ⚒️ Tools & Technology
 
